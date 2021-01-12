@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "1022147385320",
+    "project_id": "ferentino-app",
+    "storage_bucket": "ferentino-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1022147385320:android:2a3e6436309fa2c89df65d",
+        "android_client_info": {
+          "package_name": "www.webagencyfrosinone.ferentino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1022147385320-90aohg0itulr4v0d16sd24j0ut9fotj3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBorfxmNGJyBjXGXZ3gjuIy_rgLSbMg-Pg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1022147385320-90aohg0itulr4v0d16sd24j0ut9fotj3.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "1022147385320-7cv30kn6jkilrd5ms4patodtgopqgags.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "www.webagencyfrosinone.ferentino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
